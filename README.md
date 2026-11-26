@@ -5,3 +5,4 @@ Maintained by the platform team.
 Maintained by the platform team.
 See docs/ for deployment notes and the runbook.
 Default branch: main.
+Maintained by the platform team.
